@@ -52,7 +52,7 @@ Windows Registry Editor Version 5.00
 "Configuration"="xinp"
 ```
 
-Be sure to edit the registry value for StartExe, after you import it into the registry, ie update the registry string rather than the hex.
+Be sure to edit the registry value for StartExe, after you import it into the registry, ie update the registry string rather than the hex.  If it fails to start you may have to apply the settings in Control Panel - Ease of Access Center -Change sign-in settings.  Check and apply the XInput entry.
 
 To uninstall from boot/uac:
 ```
