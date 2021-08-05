@@ -14,7 +14,7 @@ Features:
 * Thumbsticks can be calibrated to reduce dead zones.
 * XInput event handling for metro/store apps can be disabled with the WTSDisconnectSession API.
 
-To disconnect xinput to apps use WTSDiscconect.exe.  This will allow the Mouse-Only setting in the button mapping dialog window.  You can navigate app Windows with the mouse rather than the silly selector rectangle.
+To disconnect xinput to apps use WTSDiscconect.exe.  You can navigate app Windows with the mouse rather than the silly selector rectangle.
 
 Code:
 
