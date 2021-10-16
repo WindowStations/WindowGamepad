@@ -1,5 +1,6 @@
 # WindowGamepad
 XInput mouse interface for "Xbox one" controllers and "Xbox adaptive controller".
+![alt text](https://user-images.githubusercontent.com/39764372/137580156-46b20afb-0c2b-439e-a815-88c16d4cb897.png)
 
 Allows users to quickly operate the mouse and manipulate Windows on the active desktop, appropriately handling desktop switches between instances.
 
