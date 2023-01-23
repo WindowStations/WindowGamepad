@@ -6,13 +6,14 @@ Allows users to quickly operate the mouse and manipulate Windows on the active d
 
 Features:
 
+* Co-pilot with a second controller. Each gamepad can have its own settings and button mapping.
 * The application is aware of the desktop that is running and the desktop it started on.  Only one instance per desktop may be run at one time.
 * The application can be registered as as accessibility application, allowing it to run on the Winlogon desktop at boot, and at UAC (user account control) prompts.
 * Detection of the Window under the cursor.  Allowing manipulation of Windows, including closing, moving, resizing, pushing (to the back of the z-order), pulling (to the top of the z-order), maximizing, restoring, and minimizing.
 * XInput events can be configured to trigger simulated mouse and keyboard events.
 * A wide range of speed and acceleration settings can be applied to the simulated events.
 * XInput buttons can be remapped to different functions.
-* Thumbsticks can be calibrated to reduce dead zones.
+* Thumbsticks and Triggers can be calibrated to ignore dead zones.
 * XInput event handling for metro/store apps can be disabled with the WTSDisconnectSession API.
 
 To disconnect xinput to apps use WTSDisconnect.exe.  You can navigate app Windows with the mouse rather than the silly selector rectangle.
