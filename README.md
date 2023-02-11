@@ -60,7 +60,6 @@ Windows Registry Editor Version 5.00
   64,00,6f,00,77,00,47,00,61,00,6d,00,65,00,70,00,61,00,64,00,2e,00,65,00,78,\
   00,65,00,00,00
 "TerminateOnDesktopSwitch"=dword:00000000
-"StartParams"="/uac"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\OOBE]
 "Configuration"="xinp"
