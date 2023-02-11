@@ -62,7 +62,7 @@ Windows Registry Editor Version 5.00
 "TerminateOnDesktopSwitch"=dword:00000000
 "StartParams"="/uac"
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\OOBE]
 "Configuration"="xinp"
 ```
 
