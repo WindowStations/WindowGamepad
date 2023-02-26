@@ -67,6 +67,8 @@ Windows Registry Editor Version 5.00
 
 Be sure to edit the registry value for StartExe, after you import it into the registry, ie update the registry string rather than the hex.  If it fails to start you may have to apply the settings in Control Panel - Ease of Access Center -Change sign-in settings.  Check and apply the XInput entry.
 
+![alt text](https://user-images.githubusercontent.com/39764372/221386742-ce3f41e8-7f5b-4bfb-a85b-f7ee7873ba53.png)
+
 To uninstall from boot/uac:
 ```
 Windows Registry Editor Version 5.00
