@@ -15,9 +15,9 @@ Features:
 * A wide range of speed and acceleration settings can be applied to the simulated events.
 * XInput buttons can be remapped to different functions.
 * Thumbsticks and Triggers can be calibrated to ignore dead zones.
-* XInput event handling for metro/store apps can be disabled with the WTSDisconnectSession API.
+* XInput event handling for metro/store apps, "App support" can be disabled with the WTSDisconnectSession API.
 
-To disconnect xinput to apps use WTSDisconnect.exe.  You can navigate app Windows with the mouse rather than the silly selector rectangle.
+To disconnect xinput to apps use WTSDisconnect.exe.  You can navigate app Windows with normal mouse simulation rather than the silly selector rectangle.
 
 Code:
 
